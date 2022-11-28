@@ -95,8 +95,8 @@ risk of interfering with the robot.
 
 ### PROGRAM
 ```
-Name : ANISH MJ
-Register Number:212221230005
+Name : PRANEET S
+Register Number:212221230078
 ```
 ```
 import sys
